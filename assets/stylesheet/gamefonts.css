@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'press_start_2pregular';
+    src: url('../fonts/pressstart2p-webfont.woff2') format('woff2'),
+         url('../fonts/pressstart2p-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
