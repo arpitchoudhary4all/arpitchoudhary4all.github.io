@@ -819,7 +819,7 @@ body {
 .slide-menu-container .slide-menu .arpit-user-info .arpit-img-box .arpit-img img {
   width: 100%;
   padding: 5px;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .slide-menu-container .slide-menu .arpit-user-info.arpit-menu-style-1:after, .slide-menu-container .slide-menu .arpit-user-info.arpit-menu-style-1:before {
   content: "";
